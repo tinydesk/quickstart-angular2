@@ -1,5 +1,7 @@
 # Angular 2 Quickstart
 
+Based on https://angular.io/docs/ts/latest/guide/webpack.html
+
 ## Get started
 
 ```
